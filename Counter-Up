@@ -1,5 +1,5 @@
 <script>
-    var contadores = $('#e_000000, .e_000000');
+    var contadores = $('#e_000000, #e_000000');
 
     function Contador() {
         if (contadores.length) {
